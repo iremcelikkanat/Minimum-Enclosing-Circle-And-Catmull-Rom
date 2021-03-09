@@ -2,8 +2,7 @@
 
 Bu çalışmada Minimum Enclosing Circle Probleminin algoritması oluşturulmuştur. Proje oluşturulması için Codeblocks IDE’si ve Allegro kütüphanesi kullanılmıştır. Projede; kullanıcı tarafından N nokta verildiğinde ,tam sayı koordinatlı iki boyutlu düzlemde tüm noktaları içeren ve minimum çevreleyen yarıçaplı çember çizdirilmektedir.
 
-
-![Ekran görüntüsü 2021-03-04 004639](https://user-images.githubusercontent.com/56557278/109876701-1e8c4000-7c83-11eb-8d61-0e951ba1445b.jpg)
+![MEC](https://user-images.githubusercontent.com/56557278/110455225-39264500-80d9-11eb-8361-8d8954495f91.png)
 
 
 ## GİRİS
